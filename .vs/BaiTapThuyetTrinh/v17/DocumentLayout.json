@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Desktop\\Work\\BaiTapThuyetTrinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1E2BFF-8AFF-4EF5-A726-3226593D81E9}|BaiTapThuyetTrinh\\BaiTapThuyetTrinh.csproj|c:\\users\\pc\\onedrive\\desktop\\work\\baitapthuyettrinh\\baitapthuyettrinh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F1E2BFF-8AFF-4EF5-A726-3226593D81E9}|BaiTapThuyetTrinh\\BaiTapThuyetTrinh.csproj|solutionrelative:baitapthuyettrinh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1E2BFF-8AFF-4EF5-A726-3226593D81E9}|BaiTapThuyetTrinh\\BaiTapThuyetTrinh.csproj|c:\\users\\pc\\onedrive\\desktop\\work\\baitapthuyettrinh\\baitapthuyettrinh\\resources\\views\\shared\\_layout.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{3F1E2BFF-8AFF-4EF5-A726-3226593D81E9}|BaiTapThuyetTrinh\\BaiTapThuyetTrinh.csproj|solutionrelative:baitapthuyettrinh\\resources\\views\\shared\\_layout.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1E2BFF-8AFF-4EF5-A726-3226593D81E9}|BaiTapThuyetTrinh\\BaiTapThuyetTrinh.csproj|c:\\users\\pc\\onedrive\\desktop\\work\\baitapthuyettrinh\\baitapthuyettrinh\\resources\\views\\home\\index.vi-vn.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{3F1E2BFF-8AFF-4EF5-A726-3226593D81E9}|BaiTapThuyetTrinh\\BaiTapThuyetTrinh.csproj|solutionrelative:baitapthuyettrinh\\resources\\views\\home\\index.vi-vn.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1E2BFF-8AFF-4EF5-A726-3226593D81E9}|BaiTapThuyetTrinh\\BaiTapThuyetTrinh.csproj|c:\\users\\pc\\onedrive\\desktop\\work\\baitapthuyettrinh\\baitapthuyettrinh\\resources\\views\\home\\index.fr-fr.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{3F1E2BFF-8AFF-4EF5-A726-3226593D81E9}|BaiTapThuyetTrinh\\BaiTapThuyetTrinh.csproj|solutionrelative:baitapthuyettrinh\\resources\\views\\home\\index.fr-fr.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1E2BFF-8AFF-4EF5-A726-3226593D81E9}|BaiTapThuyetTrinh\\BaiTapThuyetTrinh.csproj|c:\\users\\pc\\onedrive\\desktop\\work\\baitapthuyettrinh\\baitapthuyettrinh\\resources\\views\\home\\index.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{3F1E2BFF-8AFF-4EF5-A726-3226593D81E9}|BaiTapThuyetTrinh\\BaiTapThuyetTrinh.csproj|solutionrelative:baitapthuyettrinh\\resources\\views\\home\\index.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1E2BFF-8AFF-4EF5-A726-3226593D81E9}|BaiTapThuyetTrinh\\BaiTapThuyetTrinh.csproj|c:\\users\\pc\\onedrive\\desktop\\work\\baitapthuyettrinh\\baitapthuyettrinh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F1E2BFF-8AFF-4EF5-A726-3226593D81E9}|BaiTapThuyetTrinh\\BaiTapThuyetTrinh.csproj|solutionrelative:baitapthuyettrinh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 299,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Work\\BaiTapThuyetTrinh\\BaiTapThuyetTrinh\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapThuyetTrinh\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Work\\BaiTapThuyetTrinh\\BaiTapThuyetTrinh\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BaiTapThuyetTrinh\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T07:03:40.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.en-US.resx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Work\\BaiTapThuyetTrinh\\BaiTapThuyetTrinh\\Resources\\Views\\Shared\\_Layout.en-US.resx",
+              "RelativeDocumentMoniker": "BaiTapThuyetTrinh\\Resources\\Views\\Shared\\_Layout.en-US.resx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Work\\BaiTapThuyetTrinh\\BaiTapThuyetTrinh\\Resources\\Views\\Shared\\_Layout.en-US.resx",
+              "RelativeToolTip": "BaiTapThuyetTrinh\\Resources\\Views\\Shared\\_Layout.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-12T06:49:02.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.vi-VN.resx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Work\\BaiTapThuyetTrinh\\BaiTapThuyetTrinh\\Resources\\Views\\Home\\Index.vi-VN.resx",
+              "RelativeDocumentMoniker": "BaiTapThuyetTrinh\\Resources\\Views\\Home\\Index.vi-VN.resx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Work\\BaiTapThuyetTrinh\\BaiTapThuyetTrinh\\Resources\\Views\\Home\\Index.vi-VN.resx",
+              "RelativeToolTip": "BaiTapThuyetTrinh\\Resources\\Views\\Home\\Index.vi-VN.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-12T06:49:01.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.fr-FR.resx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Work\\BaiTapThuyetTrinh\\BaiTapThuyetTrinh\\Resources\\Views\\Home\\Index.fr-FR.resx",
+              "RelativeDocumentMoniker": "BaiTapThuyetTrinh\\Resources\\Views\\Home\\Index.fr-FR.resx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Work\\BaiTapThuyetTrinh\\BaiTapThuyetTrinh\\Resources\\Views\\Home\\Index.fr-FR.resx",
+              "RelativeToolTip": "BaiTapThuyetTrinh\\Resources\\Views\\Home\\Index.fr-FR.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-12T06:49:00.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.en-US.resx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Work\\BaiTapThuyetTrinh\\BaiTapThuyetTrinh\\Resources\\Views\\Home\\Index.en-US.resx",
+              "RelativeDocumentMoniker": "BaiTapThuyetTrinh\\Resources\\Views\\Home\\Index.en-US.resx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Work\\BaiTapThuyetTrinh\\BaiTapThuyetTrinh\\Resources\\Views\\Home\\Index.en-US.resx",
+              "RelativeToolTip": "BaiTapThuyetTrinh\\Resources\\Views\\Home\\Index.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-12T06:48:55.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Work\\BaiTapThuyetTrinh\\BaiTapThuyetTrinh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiTapThuyetTrinh\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Work\\BaiTapThuyetTrinh\\BaiTapThuyetTrinh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiTapThuyetTrinh\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T06:48:10.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

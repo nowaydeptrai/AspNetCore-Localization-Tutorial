@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oPGWNdjUgK0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\OneDrive\\Desktop\\Work\\BaiTapThuyetTrinh\\BaiTapThuyetTrinh\\BaiTapThuyetTrinh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\lazziya.expresslocalization\\4.0.4\\lazziya.expresslocalization.4.0.4.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\lazziya.taghelpers\\6.0.2\\lazziya.taghelpers.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
